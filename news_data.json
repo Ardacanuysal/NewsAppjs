@@ -1,0 +1,37 @@
+[
+  {
+    "u_id": 0,
+    "author": "Omkar Godbole",
+    "title": "Boğalar BitMEX Bitcoin Vadeli İşlemler Piyasasından Çıktı",
+    "description": "ABD düzenleyicilerinin duyurusundan bu yana BitMEX, şu anda 422 milyon dolardan fazla değere sahip 40.000'den fazla bitcoin çıkışına tanık oldu.",
+    "imageUrl": "https://static.coindesk.com/wp-content/uploads/2020/10/BitMEX-1180x628.png"
+  },
+  {
+    "u_id": 1,
+    "author": "Benjamin Pirus",
+    "title": "Coinbase müşterileri artık bir bankadan kaçabilir",
+    "description": "Coinbase'den gelen yeni güncelleme, kriptonun itibari paraya dönüşümünü hızlandırıyor. Coinbase, müşterilerinin dijital para birimlerini kriptodan çıkarıp banka hesaplarına taşımaları için daha hızlı bir yol açıkladı.",
+    "imageUrl": "https://static.coindesk.com/wp-content/uploads/2020/10/GettyImages-alex-wong-1-1024x628.jpg"
+  },
+  {
+    "u_id": 2,
+    "author": "Malwarebytes Labs",
+    "title": "VideoBytes: Ransomware boşa gidiyor!",
+    "description": "Günümüzün VideoBytes'inde, fidye yazılımlarının yalnızca dosyaları şifrelemekle kalmayıp aynı zamanda onları çalan kötü amaçlı yazılımlarla şirketlere saldırarak nasıl arttığına bakıyoruz.",
+    "imageUrl": "https://blog.malwarebytes.com/wp-content/uploads/2020/09/shutterstock_640824457-600x410.jpg"
+  },
+  {
+    "u_id": 3,
+    "author": "Daniel Sparks",
+    "title": "Tesla Hissesi Cuma Sabahı Neden Keskin Düştü - Motley Fool",
+    "description": "Hisseler, Tesla'nın üçüncü çeyrekte rekor teslimatlar bildirmesine rağmen düştü. Elektrikli otomobil üreticisi Tesla'nın (NASDAQ:TSLA) hisseleri Cuma sabahı düştü ve piyasanın açılmasına birkaç dakika kala %5 düştü.",
+    "imageUrl": "https://g.foolcdn.com/editorial/images/593799/stock-down.jpg"
+  },
+  {
+    "u_id": 4,
+    "author": "Jessica Bursztynsky",
+    "title": "Twilio, hisse senedi olarak 52 haftanın yeni zirvesine ulaştı",
+    "description": "Twilio hisseleri, şirketin üçüncü çeyrekte beklenenden daha iyi gelir beklediğini açıklamasının ardından kazançlarını Cuma gününe kadar genişleterek 52 haftanın en yüksek seviyesine ulaştı.",
+    "imageUrl": "https://image.cnbcfm.com/api/v1/image/105737636-1550147305726gettyimages-1034802076rr.jpg?v=1601647142"
+  }
+]
